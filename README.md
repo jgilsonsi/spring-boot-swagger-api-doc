@@ -1,6 +1,6 @@
 # spring-boot-swagger-api-doc
 
-Demo project to show the use of the Swagger SpringFox lib and the API doc auto generation process
+Demo project using Swagger SpringFox lib and the API doc auto generation process
 
 Swagger-Core Annotations - Quick Annotation Overview
 
