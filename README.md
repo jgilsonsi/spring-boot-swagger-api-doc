@@ -3,8 +3,9 @@
 Demo project to show the use of the Swagger SpringFox lib and the API doc auto generation process
 
 Swagger-Core Annotations - Quick Annotation Overview
+
 | Name                | Description                                                                |
-| ------------------- |:--------------------------------------------------------------------------:|
+| ------------------- | -------------------------------------------------------------------------- |
 | @Api                | Marks a class as a Swagger resource.                                       |
 | @ApiImplicitParam   | Represents a single parameter in an API Operation.                         |
 | @ApiImplicitParams  | A wrapper to allow a list of multiple ApiImplicitParam objects.            |
